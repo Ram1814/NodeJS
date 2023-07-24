@@ -18,3 +18,10 @@ const _ = require('lodash')
 const item = [1, [2, [3, [4]]]]
 const newItems = _.flattenDeep(item)
 console.log(newItems);
+
+//git init -b main
+// git add .
+// git commit -m "mess"
+// git remote add origin 'url'
+// git remote -v(optional)
+// git push origin main
