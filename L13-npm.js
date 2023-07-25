@@ -25,3 +25,13 @@ console.log(newItems);
 // git remote add origin 'url'
 // git remote -v(optional)
 // git push origin main
+
+//// npm install to redownload the dependencies
+
+// Nodemon package is used to watch our files and automatically restart the app for us.
+//// npm i nodemon -D
+// ? -D or --save-dev to install the dependency as the dev dependency
+
+//npm uninstall "packageName", to uninstall the dependencies
+
+// npx "toolName" "folderName" (Package runner) //? Alternative to install packages globally
